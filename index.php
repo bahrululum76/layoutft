@@ -57,7 +57,7 @@
               <a class="nav-link" href="#">E-Dokumen</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Berita</a>
+              <a class="nav-link" href="?page=berita">Berita</a>
             </li>
           </ul>
             <a href="signin.php"><button class="btn btn-outline-success my-2 my-sm-0">Login</button></a>            
