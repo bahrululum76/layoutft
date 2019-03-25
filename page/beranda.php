@@ -67,13 +67,13 @@
           </div>
           <div class="col-sm-3 col-md-3">
             <div class="page-header">
-                <a href="http://ft.unsur.ac.id/berita.html"><img src="img/dokumen.png"></a>
+                <a href="?page=dokumen"><img src="img/dokumen.png"></a>
                   
             </div>
           </div>
           <div class="col-sm-3 col-md-3">
             <div class="page-header">
-                <a href="http://ft.unsur.ac.id/berita.html"><img src="img/prosedur.png"></a>
+                <a href="?page=prosedur"><img src="img/prosedur.png"></a>
                   
             </div>
           </div>

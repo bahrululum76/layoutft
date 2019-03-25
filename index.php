@@ -71,6 +71,78 @@
 include 'conten.php';?>
 </div> 
 
+<footer class="footer" style="background:whitesmoke">
+  <div class="bottom-content">
+    <div class="container">
+      <div class="row">
+                <div class="col-sm-3 col-sm-push-3">
+          <div class="box">
+            <h4 class="box-title">Blogroll</h4>
+            <div class="box-body">
+              <ul class="list">
+                              <li><a href="#">Dosen Pengajar</a></li>
+                              <li><a href="#">Blog Dosen</a></li>
+                              <li><a href="#">Jurnal</a></li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+                <div class="col-sm-3 col-sm-push-3">
+          <div class="box">
+            <h4 class="box-title">Link Terkait</h4>
+            <div class="box-body">
+              <ul class="list">
+                              <li><a href="#">Universitas Suryakancana</a></li>
+                              <li><a href="#">Fakultas Hukum</a></li>
+                              <li><a href="#">Fakultas Keguruan Dan Ilmu Pendidikan</a></li>
+                              <li><a href="#">Fakultas Pertanian</a></li>
+                              <li><a href="#">Fakultas Agama Islam</a></li>
+                              <li><a href="#">Pasca Sarajana Ilmu Hukum</a></li>
+                              <li><a href="#">Pasca Sarjana Pendidikan Bahasa dan Sastra Indonesia</a></li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+                <div class="col-sm-3 col-sm-push-3">
+          <div class="box">
+            <h4 class="box-title">Akademik</h4>
+            <div class="box-body">
+              <ul class="list">
+                              <li><a href="#">Evaluasi Dosen</a></li>
+                              <li><a href="">Tracer</a></li>
+                              <li><a href="">Labtif</a></li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+                <div class="col-sm-3 col-sm-pull-9">
+          <div class="box">
+            <h4 class="box-title">Kontak Kami</h4>
+            <div class="box-body">
+              <b>Fakultas Teknik Universitas Suryakancana</b><br>
+              Jl Pasir Gede Raya Cianjur<br>
+              <i class="fa fa-phone-square"></i> Phone : (0263) 283578<br>
+              <i class="fa fa-print"></i> Faxmile : (0263) 283578<br>
+              <i class="fa fa-envelope"></i> E-Mail : info@ftunsur.ac.id<br>
+
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright">
+    <div class="container">
+    <div class="row">
+      
+    </div>
+    </div>
+  </div>
+</footer>
+
+
+
       <!-- FOOTER -->
     <footer class="page-footer bg-dark">
         <br>  
