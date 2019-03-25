@@ -28,7 +28,7 @@
     <div>
       
     </div>
-      <nav class="navbar navbar-expand-md navbar-dark fixed-top ">
+      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="index.php"><img src="img/logo.png" alt="" /></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -66,13 +66,13 @@
     </header>
 
 
-<div class="container-fluid"  >
+<div class="container-fluid" style="background: url(img/bg5.jpg) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; margin-top:70px" >
 <?php 
 include 'conten.php';?>
 </div> 
 
       <!-- FOOTER -->
-    <footer class="page-footer ">
+    <footer class="page-footer bg-dark">
         <br>  
         <p class="float-right"><a href="#">Kembali Ke Atas</a></p>
         <center> <font color="white"> <p>&copy; 2017 Fakultas Teknik Universitas Suryakancana.</p></font></center>
