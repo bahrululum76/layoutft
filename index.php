@@ -54,7 +54,7 @@
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">E-Dokumen</a>
+              <a class="nav-link" href="?page=dokumen">E-Dokumen</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="?page=berita">Berita</a>
